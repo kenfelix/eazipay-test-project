@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 create a .env file in the root of current directory and put the follow fields:
 
-DB_URL=<monogodb-atlas-connection-str> e.g mongodb+srv://kenfelix:12345@kenfelix.ziwhr6r.mongodb.net/?retryWrites=true&w=majority
+DB_URL=monogodb-atlas-connection-str e.g mongodb+srv://kenfelix:12345@kenfelix.ziwhr6r.mongodb.net/?retryWrites=true&w=majority
 
 ## Usage
 
