@@ -15,11 +15,6 @@ The Graphql service has basic Auth endpoints(e.g. Signup & Login), however Schem
     - [Installation](#installation)
     - [Configuration](#configuration)
   - [Usage](#usage)
-  - [GraphQL Services](#graphql-services)
-    - [Service 1](#service-1)
-    - [Service 2](#service-2)
-    - [Service 3](#service-3)
-  - [Contributing](#contributing)
   - [License](#license)
 
 
